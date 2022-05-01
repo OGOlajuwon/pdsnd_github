@@ -1,17 +1,20 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+'30/4/2022'
 
 ### Project Title
-Replace the Project Title
+'BikeShare project'
 
 ### Description
-Describe what your project is about and what it does
+'To use Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington'
 
 ### Files used
-Include the files used
+'Chicago New York City, Washington'
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.shell-tips.com/bash/functions/#gsc.tab=0
+https://realpython.com/lessons/invalid-syntax-overview/
+https://stackoverflow.com/questions/48207907/how-to-create-a-gitignore-file-in-windows-10
 
+
+'US Bikeshare data will be explore'
+'Gives meaningful analysis to US bikeshare start_time data diff --git a/bikeshare.py'
